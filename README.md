@@ -24,3 +24,4 @@ A window will open in chrome browser having the interface of the player. Select 
 When emotion is detected, you can see the name of the emotion in the terminal open.
 
 Refer to READIT.odt for more info.
+[![Run on Repl.it](https://repl.it/badge/github/PartheshSoni/emotion-based-music-player)](https://repl.it/github/PartheshSoni/emotion-based-music-player)
